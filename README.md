@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# 🚀 Sensor Data Charting App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### **Setup & Run Instructions**
+Clone the repository, install dependencies, and start the development server:
+```sh
+git clone https://github.com/DamayanthaPAA/ADAMAYANTHA022025 && \
+cd ADAMAYANTHA022025 && \
+npm install  
+
+ 
 
 ## Available Scripts
 
